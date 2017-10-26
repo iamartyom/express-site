@@ -21,8 +21,14 @@ body {
 a {
   padding: 10px;
   font-size: 19px;
-  color: #00B7FF;
+  color: #00b7ff;
   text-decoration: none;
+}
+
+.linkForContent {
+  display: block;
+  font-size: 40px;
+  color: #2a79ba;
 }
 
 img {
